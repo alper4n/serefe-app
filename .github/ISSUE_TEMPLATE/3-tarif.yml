@@ -1,0 +1,25 @@
+name: Tarif önerisi · Recipe suggestion
+description: Eklenmesini istediğin bir kokteyl ya da tarife bir düzeltme · A cocktail to add or a fix to a recipe
+title: "[Tarif] "
+labels: ["tarif"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Kokteyl · Cocktail
+      placeholder: Paper Plane
+    validations:
+      required: true
+  - type: textarea
+    id: recipe
+    attributes:
+      label: Tarif ya da düzeltme · Recipe or fix
+      description: Malzemeler ve ölçüler (ml), hazırlanışı; biliyorsan kaynağı ya da hikâyesi.
+      placeholder: |
+        25 ml burbon, 25 ml Aperol, 25 ml Amaro Nonino, 25 ml limon suyu
+        Buzla çalkala, soğutulmuş kadehe süz.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "18+ · Lütfen sorumlu tüket · Please drink responsibly"

@@ -1,0 +1,35 @@
+name: Hata bildir · Bug report
+description: Bir şey çalışmıyor ya da yanlış görünüyor · Something is broken or looks wrong
+title: "[Hata] "
+labels: ["hata"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Ne oldu? · What happened?
+      description: Ne yapıyordun, ne bekliyordun, ne oldu? Ekran görüntüsü eklersen çok işe yarar.
+      placeholder: Paylaş'a basınca uygulama kapandı…
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: Cihaz · Device
+      options:
+        - iPhone
+        - Android
+        - Mac
+        - Windows
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Şerefe sürümü · Version
+      description: Daha fazla → Hakkında'da yazar · Shown in More → About
+      placeholder: "1.1.0"
+  - type: input
+    id: os
+    attributes:
+      label: Sistem sürümü · OS version
+      placeholder: "iOS 18.6, Android 14, macOS 15, Windows 11…"

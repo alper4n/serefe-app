@@ -1,0 +1,12 @@
+name: Öneri · Suggestion
+description: Yeni bir özellik ya da iyileştirme fikri · An idea for a feature or improvement
+title: "[Öneri] "
+labels: ["öneri"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Fikrin · Your idea
+      description: Ne olsun istersin, neden işine yarar?
+    validations:
+      required: true

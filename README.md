@@ -31,11 +31,13 @@
 
 Şerefe şimdilik mağaza dışından dağıtıldığı için sistem bir kez uyarı gösterir:
 
-- **Android:** Dosyayı aç. "Bilinmeyen kaynaklar" iznini ver; Play Koruma uyarısında
-  **Yine de yükle**. Yeni sürüm eskisinin üstüne kurulur, verilerin silinmez. Uygulama yeni
+- **Android:** Dosyayı aç. "Bu kaynaktan yüklemeye izin ver" iznini aç; Play Koruma uyarısında
+  **Ayrıntılar → Yine de yükle**. Yeni sürüm eskisinin üstüne kurulur, verilerin silinmez. Uygulama yeni
   sürüm çıkınca kendisi haber verir.
 - **Mac:** Şerefe'yi Uygulamalar klasörüne sürükle. İlk açılışta engellenirse
-  **Sistem Ayarları → Gizlilik ve Güvenlik → Yine de Aç**.
+  **Sistem Ayarları → Gizlilik ve Güvenlik → Yine de Aç**. "Şerefe hasarlı ve açılamıyor"
+  derse Terminal'de bir kez şunu çalıştır, sonra tekrar aç:
+  `xattr -cr /Applications/Şerefe.app`
 - **Windows:** "Windows bilgisayarınızı korudu" çıkarsa **Ek bilgi → Yine de çalıştır**.
 
 ## Neler var?
@@ -44,6 +46,7 @@
 - **150+ tarif:** Klasikler, modern klasikler, rakılılar ve Şerefe imzaları; her birinin kendi
   illüstrasyonu, adım adım hazırlanışı, tadı ve sertliği, birçoğunun hikâyesi.
 - **Ne yoksa ne konur:** Eksik malzemeye uygun ikame önerileri.
+- **Vegan seçenek:** Yumurta akı yerine aquafaba (nohut suyu), krema yerine hindistan cevizi kreması…
 - **Adım adım mod:** Bardağın başında büyük yazıyla, ekran kapanmadan.
 - **Parti Modu:** Misafirler için tam ekran bar menüsü; ölçüler kişi sayısına göre ayarlanır.
 - **Resim olarak paylaş:** Instagram'a hazır tarif kartı.
@@ -69,11 +72,12 @@
 
 Şerefe hiçbir kişisel veri toplamaz. Favorilerin, dolabın ve notların yalnızca cihazında
 saklanır; hesap, takip ya da reklam yok. İnternete yalnızca yeni sürüm olup olmadığına bakmak
-için çıkar.
+için çıkar. Ayrıntılar: [serefe.app/gizlilik](https://serefe.app/gizlilik/).
 
 ## Hata ve öneri
 
-[Issues](https://github.com/alper4n/serefe-app/issues) bölümünden bildir ya da
+[Issues](https://github.com/alper4n/serefe-app/issues/new/choose) bölümünden bildir (hata, öneri ya da
+tarif önerisi) ya da
 [merhaba@serefe.app](mailto:merhaba@serefe.app)'e yaz.
 
 <p align="center"><b>18+</b> · Lütfen sorumlu tüket. Araç kullanacaksan içme.</p>
@@ -98,21 +102,22 @@ you can make right now. Free, in Turkish and English, no account and no ads.
 
 **First install** (shown once, since Şerefe isn't from an app store yet):
 
-- **Android:** Open the file, allow "unknown sources" and choose **Install anyway** on the Play
-  Protect prompt. New versions install over the old one and keep your data; the app tells you
+- **Android:** Open the file, allow installs from this source and choose **More details → Install
+  anyway** on the Play Protect prompt. New versions install over the old one and keep your data; the app tells you
   when one is out.
 - **Mac:** Drag Şerefe to Applications. If the first launch is blocked: **System Settings →
-  Privacy & Security → Open Anyway**.
+  Privacy & Security → Open Anyway**. If macOS says the app is damaged, run
+  `xattr -cr /Applications/Şerefe.app` once in Terminal and open it again.
 - **Windows:** On "Windows protected your PC" choose **More info → Run anyway**.
 
 **Inside:** My Bar, 150+ recipes (classics, modern classics, rakı drinks and Şerefe signatures)
-with illustrations, steps, taste and strength, and many with their story; substitutions;
+with illustrations, steps, taste and strength, and many with their story; substitutions and vegan options;
 step-by-step mode; Party Mode; share as an image; a drinks journal; a bartender's guide.
 
 **Privacy:** Şerefe collects no personal data. Everything stays on your device; it only goes
-online to check for a new version.
+online to check for a new version. Details: [serefe.app/gizlilik](https://serefe.app/gizlilik/).
 
-**Feedback:** [Issues](https://github.com/alper4n/serefe-app/issues) or
+**Feedback:** [Issues](https://github.com/alper4n/serefe-app/issues/new/choose) or
 [merhaba@serefe.app](mailto:merhaba@serefe.app).
 
 <p align="center"><b>18+</b> · Please drink responsibly. Never drink and drive.</p>
