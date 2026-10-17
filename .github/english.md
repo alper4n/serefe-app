@@ -2,7 +2,7 @@
   <img src="img/kapak-en.png" width="900" alt="Şerefe: Whatever's in your cabinet, tonight's cocktail starts there. Free, no ads, no account.">
 </p>
 
-<p align="center"><a href="README.md">Türkçe</a> · <b>English</b></p>
+<p align="center"><a href="../README.md">Türkçe</a> · <b>English</b></p>
 
 Half a bottle of gin, a lime and some mint at home? **Şerefe** tells you what you can make tonight.
 No memorising recipes, no bar kit, no sign-up: tick what's in your cabinet, pick a glass, cheers! 🥂

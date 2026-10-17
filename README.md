@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="img/kapak-tr.png" width="900" alt="Şerefe: Dolabında ne varsa, bu akşamın kokteyli ondan. Ücretsiz, reklam yok, hesap yok.">
+  <img src=".github/img/kapak-tr.png" width="900" alt="Şerefe: Dolabında ne varsa, bu akşamın kokteyli ondan. Ücretsiz, reklam yok, hesap yok.">
 </p>
 
-<p align="center"><b>Türkçe</b> · <a href="README.en.md">English</a></p>
+<p align="center"><b>Türkçe</b> · <a href=".github/english.md">English</a></p>
 
 Evde yarım şişe cin, bir lime ve biraz nane mi var? **Şerefe** bu akşam ne yapabileceğini söyler.
 Tarif ezberlemek, bar ekipmanı ya da hesap açmak gerekmez: dolabını işaretle, kadehini seç, şerefe! 🥂
@@ -10,33 +10,33 @@ Tarif ezberlemek, bar ekipmanı ya da hesap açmak gerekmez: dolabını işaretl
 ## İndir
 
 <p align="center">
-  <a href="https://serefe.app/indir/"><img src="img/indir-ios-tr.png" width="380" alt="iPhone: App Store'da yakında"></a>
-  <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-Android.apk"><img src="img/indir-android-tr.png" width="380" alt="Android için indir (APK)"></a>
+  <a href="https://serefe.app/indir/"><img src=".github/img/indir-ios-tr.png" width="380" alt="iPhone: App Store'da yakında"></a>
+  <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-Android.apk"><img src=".github/img/indir-android-tr.png" width="380" alt="Android için indir (APK)"></a>
   <br>
-  <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-macOS.dmg"><img src="img/indir-macos-tr.png" width="380" alt="Mac için indir (DMG)"></a>
-  <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-Windows-setup.exe"><img src="img/indir-windows-tr.png" width="380" alt="Windows için indir (EXE)"></a>
+  <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-macOS.dmg"><img src=".github/img/indir-macos-tr.png" width="380" alt="Mac için indir (DMG)"></a>
+  <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-Windows-setup.exe"><img src=".github/img/indir-windows-tr.png" width="380" alt="Windows için indir (EXE)"></a>
 </p>
 
 > İlk sürüm hazırlanıyor; düğmeler kasım başında çalışmaya başlar. Telefondan bakıyorsan
 > **[serefe.app/indir](https://serefe.app/indir/)** cihazını tanır, doğru dosyayı en üstte gösterir.
 
 <p align="center">
-  <img src="img/adimlar-tr.png" width="900" alt="3 adımda Şerefe: 1) Dolabını aç ve elindekileri işaretle. 2) Şu an yapabileceklerine bak. 3) Adım adım yap ve şerefe!">
+  <img src=".github/img/adimlar-tr.png" width="900" alt="3 adımda Şerefe: 1) Dolabını aç ve elindekileri işaretle. 2) Şu an yapabileceklerine bak. 3) Adım adım yap ve şerefe!">
 </p>
 
 <p align="center">
-  <img src="img/telefonlar.png" width="900" alt="Telefonda Şerefe: tarif listesi, Negroni tarifi ve resim olarak paylaş ekranı">
+  <img src=".github/img/telefonlar.png" width="900" alt="Telefonda Şerefe: tarif listesi, Negroni tarifi ve resim olarak paylaş ekranı">
 </p>
 
 <p align="center">
-  <img src="img/ozellikler-tr.png" width="900" alt="İçinde neler var: Dolabım, 157 tarif, Parti Modu, adım adım mod, vegan seçenekler ve ikameler, tarifi resim olarak paylaşma">
+  <img src=".github/img/ozellikler-tr.png" width="900" alt="İçinde neler var: Dolabım, 157 tarif, Parti Modu, adım adım mod, vegan seçenekler ve ikameler, tarifi resim olarak paylaşma">
 </p>
 
 ### Bilgisayarda da
 
 Büyük ekranda ev partisi için birebir: misafirler gelince Parti Modu'nu aç, menü ekranda dursun.
 
-<p align="center"><img src="img/uygulama.webp" width="820" alt="Şerefe masaüstü uygulaması: tarif ekranı"></p>
+<p align="center"><img src=".github/img/uygulama.webp" width="820" alt="Şerefe masaüstü uygulaması: tarif ekranı"></p>
 
 <details>
 <summary><b>İlk açılışta uyarı mı çıktı?</b> (normal, bir kez onaylaman yeter)</summary>
