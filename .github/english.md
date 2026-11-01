@@ -26,7 +26,7 @@ No memorising recipes, no bar kit, no sign-up: tick what's in your cabinet, pick
 </p>
 
 <p align="center">
-  <img src="img/telefonlar.png" width="900" alt="Şerefe on a phone: recipe list, the Negroni recipe and the share-as-image screen">
+  <img src="img/telefonlar-en.png" width="900" alt="Şerefe on a phone: recipe list, the Berry Bloom recipe and the share-as-image screen">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ No memorising recipes, no bar kit, no sign-up: tick what's in your cabinet, pick
 
 Made for house parties on a big screen: open Party Mode when friends arrive and leave the menu up.
 
-<p align="center"><img src="img/uygulama.webp" width="820" alt="Şerefe desktop app: recipe screen"></p>
+<p align="center"><img src="img/uygulama-en.webp" width="820" alt="Şerefe desktop app: recipe screen"></p>
 
 <details>
 <summary><b>Seeing a warning on first launch?</b> (normal, you only confirm once)</summary>

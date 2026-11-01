@@ -24,7 +24,7 @@ Tarif ezberlemek, bar ekipmanı ya da hesap açmak gerekmez: dolabını işaretl
 </p>
 
 <p align="center">
-  <img src=".github/img/telefonlar.png" width="900" alt="Telefonda Şerefe: tarif listesi, Negroni tarifi ve resim olarak paylaş ekranı">
+  <img src=".github/img/telefonlar.png" width="900" alt="Telefonda Şerefe: tarif listesi, Berry Bloom tarifi ve resim olarak paylaş ekranı">
 </p>
 
 <p align="center">
