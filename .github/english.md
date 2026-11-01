@@ -19,8 +19,7 @@ No memorising recipes, no bar kit, no sign-up: tick what's in your cabinet, pick
   <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-Windows-setup.exe"><img src="img/indir-windows-en.png" width="380" alt="Download for Windows (EXE)"></a>
 </p>
 
-> The first release is on its way; the buttons start working in early November. On a phone,
-> **[serefe.app/indir](https://serefe.app/indir/)** recognises your device and shows the right file first.
+> On a phone, **[serefe.app/indir](https://serefe.app/indir/)** recognises your device and shows the right file first.
 
 <p align="center">
   <img src="img/adimlar-en.png" width="900" alt="Cheers in 3 steps: 1) Open your bar and tick what you have. 2) See what you can make. 3) Follow the steps and say şerefe!">
@@ -31,7 +30,7 @@ No memorising recipes, no bar kit, no sign-up: tick what's in your cabinet, pick
 </p>
 
 <p align="center">
-  <img src="img/ozellikler-en.png" width="900" alt="What's inside: My Bar, 157 recipes, Party Mode, step-by-step mode, vegan options and swaps, share a recipe as an image">
+  <img src="img/ozellikler-en.png" width="900" alt="What's inside: My Bar, 159 recipes, Party Mode, step-by-step mode, vegan options and swaps, share a recipe as an image">
 </p>
 
 ### On your computer too

@@ -17,8 +17,7 @@ Tarif ezberlemek, bar ekipmanı ya da hesap açmak gerekmez: dolabını işaretl
   <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-Windows-setup.exe"><img src=".github/img/indir-windows-tr.png" width="380" alt="Windows için indir (EXE)"></a>
 </p>
 
-> İlk sürüm hazırlanıyor; düğmeler kasım başında çalışmaya başlar. Telefondan bakıyorsan
-> **[serefe.app/indir](https://serefe.app/indir/)** cihazını tanır, doğru dosyayı en üstte gösterir.
+> Telefondan bakıyorsan **[serefe.app/indir](https://serefe.app/indir/)** cihazını tanır, doğru dosyayı en üstte gösterir.
 
 <p align="center">
   <img src=".github/img/adimlar-tr.png" width="900" alt="3 adımda Şerefe: 1) Dolabını aç ve elindekileri işaretle. 2) Şu an yapabileceklerine bak. 3) Adım adım yap ve şerefe!">
@@ -29,7 +28,7 @@ Tarif ezberlemek, bar ekipmanı ya da hesap açmak gerekmez: dolabını işaretl
 </p>
 
 <p align="center">
-  <img src=".github/img/ozellikler-tr.png" width="900" alt="İçinde neler var: Dolabım, 157 tarif, Parti Modu, adım adım mod, vegan seçenekler ve ikameler, tarifi resim olarak paylaşma">
+  <img src=".github/img/ozellikler-tr.png" width="900" alt="İçinde neler var: Dolabım, 159 tarif, Parti Modu, adım adım mod, vegan seçenekler ve ikameler, tarifi resim olarak paylaşma">
 </p>
 
 ### Bilgisayarda da
