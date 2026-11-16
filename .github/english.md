@@ -44,14 +44,13 @@ Made for house parties on a big screen: open Party Mode when friends arrive and 
 
 <br>
 
-The Android, Mac and Windows versions don't come from an app store yet, so your system asks once:
+The Android and Windows versions don't come from an app store, so your system asks once:
 
 - **Android:** Open the file and allow installs from this source. If Play Protect asks, choose
   **More details → Install anyway**. New versions install over the old one and keep your data;
   the app tells you when one is out.
-- **Mac:** Drag Şerefe to Applications. If it's blocked: **System Settings → Privacy & Security →
-  Open Anyway**. If macOS says the app is damaged, run this once in Terminal:
-  `xattr -cr /Applications/Şerefe.app`
+- **Mac:** Drag Şerefe to Applications. The app is notarized by Apple; if macOS asks about an app
+  downloaded from the internet, click **Open**.
 - **Windows:** On "Windows protected your PC" choose **More info → Run anyway**.
 - **iPhone:** install it from the [App Store](https://apps.apple.com/app/id6834797923); no warning, and updates arrive automatically.
 
