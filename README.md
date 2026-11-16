@@ -42,14 +42,13 @@ Büyük ekranda ev partisi için birebir: misafirler gelince Parti Modu'nu aç, 
 
 <br>
 
-Android, Mac ve Windows sürümleri şimdilik mağaza dışından geliyor, o yüzden sistem ilk seferde bir kez sorar:
+Android ve Windows sürümleri mağaza dışından geliyor, o yüzden sistem ilk seferde bir kez sorar:
 
 - **Android:** Dosyayı aç, "Bu kaynaktan yüklemeye izin ver"i aç. Play Koruma sorarsa
   **Ayrıntılar → Yine de yükle**. Yeni sürüm eskisinin üstüne kurulur, verilerin silinmez;
   çıkınca uygulama sana haber verir.
-- **Mac:** Şerefe'yi Uygulamalar klasörüne sürükle. Açılmazsa **Sistem Ayarları → Gizlilik ve
-  Güvenlik → Yine de Aç**. "Hasarlı ve açılamıyor" derse Terminal'de bir kez şunu çalıştır:
-  `xattr -cr /Applications/Şerefe.app`
+- **Mac:** Şerefe'yi Uygulamalar klasörüne sürükle. Uygulama Apple onaylı; ilk açılışta "İnternetten
+  indirildi" diye sorarsa **Aç**'a bas.
 - **Windows:** "Windows bilgisayarınızı korudu" çıkarsa **Ek bilgi → Yine de çalıştır**.
 - **iPhone:** [App Store](https://apps.apple.com/app/id6834797923)'dan kurulur, uyarı çıkmaz; güncellemeler kendiliğinden gelir.
 
