@@ -10,7 +10,7 @@ Tarif ezberlemek, bar ekipmanı ya da hesap açmak gerekmez: dolabını işaretl
 ## İndir
 
 <p align="center">
-  <a href="https://serefe.app/indir/"><img src=".github/img/indir-ios-tr.png" width="380" alt="iPhone: App Store'da yakında"></a>
+  <a href="https://apps.apple.com/app/id6834797923"><img src=".github/img/indir-ios-tr.png" width="380" alt="iPhone: App Store'dan indir"></a>
   <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-Android.apk"><img src=".github/img/indir-android-tr.png" width="380" alt="Android için indir (APK)"></a>
   <br>
   <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-macOS.dmg"><img src=".github/img/indir-macos-tr.png" width="380" alt="Mac için indir (DMG)"></a>
@@ -28,7 +28,7 @@ Tarif ezberlemek, bar ekipmanı ya da hesap açmak gerekmez: dolabını işaretl
 </p>
 
 <p align="center">
-  <img src=".github/img/ozellikler-tr.png" width="900" alt="İçinde neler var: Dolabım, 159 tarif, Parti Modu, adım adım mod, vegan seçenekler ve ikameler, tarifi resim olarak paylaşma">
+  <img src=".github/img/ozellikler-tr.png" width="900" alt="İçinde neler var: Dolabım, 161 tarif, Parti Modu, adım adım mod, vegan seçenekler ve ikameler, tarifi resim olarak paylaşma">
 </p>
 
 ### Bilgisayarda da
@@ -42,7 +42,7 @@ Büyük ekranda ev partisi için birebir: misafirler gelince Parti Modu'nu aç, 
 
 <br>
 
-Şerefe şimdilik mağaza dışından geliyor, o yüzden sistem ilk seferde bir kez sorar:
+Android, Mac ve Windows sürümleri şimdilik mağaza dışından geliyor, o yüzden sistem ilk seferde bir kez sorar:
 
 - **Android:** Dosyayı aç, "Bu kaynaktan yüklemeye izin ver"i aç. Play Koruma sorarsa
   **Ayrıntılar → Yine de yükle**. Yeni sürüm eskisinin üstüne kurulur, verilerin silinmez;
@@ -51,7 +51,7 @@ Büyük ekranda ev partisi için birebir: misafirler gelince Parti Modu'nu aç, 
   Güvenlik → Yine de Aç**. "Hasarlı ve açılamıyor" derse Terminal'de bir kez şunu çalıştır:
   `xattr -cr /Applications/Şerefe.app`
 - **Windows:** "Windows bilgisayarınızı korudu" çıkarsa **Ek bilgi → Yine de çalıştır**.
-- **iPhone:** App Store'a gelince oradan kurulacak.
+- **iPhone:** [App Store](https://apps.apple.com/app/id6834797923)'dan kurulur, uyarı çıkmaz; güncellemeler kendiliğinden gelir.
 
 </details>
 
@@ -61,7 +61,7 @@ Büyük ekranda ev partisi için birebir: misafirler gelince Parti Modu'nu aç, 
 <br>
 
 Sadece senin cihazında. Şerefe hesap istemez, reklam göstermez, seni takip etmez; favorilerin,
-dolabın ve notların kimseye gitmez. İnternete yalnızca yeni sürüm var mı diye bakmak için çıkar.
+dolabın ve notların kimseye gitmez. İnternete yalnızca yeni sürüm var mı diye bakmak için çıkar (iPhone'da onu da App Store yapar).
 Ayrıntılar: [serefe.app/gizlilik](https://serefe.app/gizlilik/)
 
 </details>

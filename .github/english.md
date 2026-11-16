@@ -12,7 +12,7 @@ No memorising recipes, no bar kit, no sign-up: tick what's in your cabinet, pick
 ## Download
 
 <p align="center">
-  <a href="https://serefe.app/indir/"><img src="img/indir-ios-en.png" width="380" alt="iPhone: coming soon to the App Store"></a>
+  <a href="https://apps.apple.com/app/id6834797923"><img src="img/indir-ios-en.png" width="380" alt="iPhone: download on the App Store"></a>
   <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-Android.apk"><img src="img/indir-android-en.png" width="380" alt="Download for Android (APK)"></a>
   <br>
   <a href="https://github.com/alper4n/serefe-app/releases/latest/download/Serefe-macOS.dmg"><img src="img/indir-macos-en.png" width="380" alt="Download for Mac (DMG)"></a>
@@ -30,7 +30,7 @@ No memorising recipes, no bar kit, no sign-up: tick what's in your cabinet, pick
 </p>
 
 <p align="center">
-  <img src="img/ozellikler-en.png" width="900" alt="What's inside: My Bar, 159 recipes, Party Mode, step-by-step mode, vegan options and swaps, share a recipe as an image">
+  <img src="img/ozellikler-en.png" width="900" alt="What's inside: My Bar, 161 recipes, Party Mode, step-by-step mode, vegan options and swaps, share a recipe as an image">
 </p>
 
 ### On your computer too
@@ -44,7 +44,7 @@ Made for house parties on a big screen: open Party Mode when friends arrive and 
 
 <br>
 
-Şerefe doesn't come from an app store yet, so your system asks once:
+The Android, Mac and Windows versions don't come from an app store yet, so your system asks once:
 
 - **Android:** Open the file and allow installs from this source. If Play Protect asks, choose
   **More details → Install anyway**. New versions install over the old one and keep your data;
@@ -53,7 +53,7 @@ Made for house parties on a big screen: open Party Mode when friends arrive and 
   Open Anyway**. If macOS says the app is damaged, run this once in Terminal:
   `xattr -cr /Applications/Şerefe.app`
 - **Windows:** On "Windows protected your PC" choose **More info → Run anyway**.
-- **iPhone:** it will install from the App Store once it's there.
+- **iPhone:** install it from the [App Store](https://apps.apple.com/app/id6834797923); no warning, and updates arrive automatically.
 
 </details>
 
@@ -63,7 +63,7 @@ Made for house parties on a big screen: open Party Mode when friends arrive and 
 <br>
 
 Only on your device. No account, no ads, no tracking; your favourites, bar and notes go nowhere.
-Şerefe only goes online to check for a new version. Details: [serefe.app/gizlilik](https://serefe.app/gizlilik/)
+Şerefe only goes online to check for a new version (on iPhone, the App Store does that). Details: [serefe.app/gizlilik](https://serefe.app/gizlilik/)
 
 </details>
 
